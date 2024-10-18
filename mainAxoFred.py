@@ -1,7 +1,7 @@
 a=10
 b=10
 c=a+b
-print("hola mundo")
+print("hola mundo conejo")
 print(f"la suma de {a}+{b}={c}")
 print("la suma de a + b es ",c)
 
