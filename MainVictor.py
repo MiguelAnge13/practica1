@@ -2,8 +2,7 @@
 a = 10
 b = 10
 c = a+b
-d = 10
-e = 10
+
 Print("Hola Mundo")
 Print(f"\nla suma de {a}+{b} = {c}")
 Print("\nla suma de a+b es",c)
